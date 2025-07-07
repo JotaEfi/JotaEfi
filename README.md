@@ -1,16 +1,27 @@
-## Hi there 👋
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-<!--
-**JotaEfi/JotaEfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Presentation -->
+<p>
+  Olá, me chamo João Filho! Sou um apaixonado por desenvolvimento de sistemas, tecnologias emergentes e IA.
 
-Here are some ideas to get you started:
+  - Atualmente estou focado na criação de projetos pessoas e desenvolvimento em diversas áreas de atuação. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Dropdown -->
+<!-- Links -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-filho-b59ab828b/)
+
+<!-- GithubStats -->
+![JotaEfi GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=JotaEfi&theme=vue-dark&hide_border=true)
+
+<!-- Portfolio -->
+## Portfolio:
+- [Plataforma de Contratar Profissionais - BeeCo](https://github.com/MarcosViictor/beeCo)
+- [Sistema de Avaliação de Filmes e séries](https://github.com/MarcosViictor/reviews)
+- [Platafora de Doação de Alimentos](https://github.com/MarcosViictor/impacta)
+
