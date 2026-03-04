@@ -57,18 +57,6 @@ Aqui estão alguns projetos que demonstram minhas habilidades. (*Observação: A
 <p><strong>Tecnologias:</strong> <code>Python</code>, <code>Django</code>, <code>HTML</code>, <code>CSS</code></p>
 <p><a href="https://github.com/MarcosViictor/reviews" target="_blank"><strong>Ver no GitHub →</strong></a></p>
 
-<br>
-
-<!-- GITHUB STATS -->
-## 📊 Minhas Estatísticas no GitHub
-<p align="center">
-  <a href="https://github.com/JotaEfi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaEfi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaEfi&layout=compact&langs_count=7&theme=vue-dark&hide_border=true"/>
-  </a>
-</p>
-
-<br>
 
 <!-- CONTACT -->
 ## 📫 Entre em Contato
